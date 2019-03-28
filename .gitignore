@@ -7,3 +7,4 @@ test.zip
 train.csv
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+.idea
