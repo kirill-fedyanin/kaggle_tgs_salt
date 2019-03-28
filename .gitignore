@@ -1,0 +1,9 @@
+test
+train
+depths.csv
+sample_submission.csv
+train.zip
+test.zip
+train.csv
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
